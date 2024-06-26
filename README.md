@@ -1,4 +1,4 @@
-# IBM Data Visualization with Python
+# Data Visualization with Python
 
 One of the most important skills of successful data scientists and data analysts is the ability to tell a compelling story by visualizing data and findings in an approachable and stimulating way. In this course, I have learned many ways to effectively visualize both small and large-scale data. I can take data that at first glance has little meaning and present that data in a form that conveys insights. 
 
